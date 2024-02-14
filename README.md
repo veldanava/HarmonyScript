@@ -1,8 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="![banner-github](https://github.com/veldanava/HarmonyScript/assets/86060881/fa26d24e-5e65-4039-8a84-a5570fe152e8)
-" alt="Logo">
+    <img src="![banner-github](https://github.com/veldanava/HarmonyScript/assets/86060881/fa26d24e-5e65-4039-8a84-a5570fe152e8)" alt="Logo">
   </a>
 
   <h3 align="center">HarmonyScript</h3>
