@@ -7,9 +7,9 @@
   <h3 align="center">HarmonyScript</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    Make your coding experince feel fancy and simple
     <br/>
-    Note This Project Is Still W.I.P
+    Python Lovers
     <br/>
    
   </p>
